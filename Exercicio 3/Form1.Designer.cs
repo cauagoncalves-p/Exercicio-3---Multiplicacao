@@ -95,6 +95,7 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Multiplicação";
             this.ResumeLayout(false);
             this.PerformLayout();
